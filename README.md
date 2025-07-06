@@ -1,3 +1,10 @@
+![Screenshot 2025-07-06 180524](https://github.com/user-attachments/assets/5dacb43a-c8f4-4142-8bcf-f6e9fbdbc608)
+![Screenshot 2025-07-06 180456](https://github.com/user-attachments/assets/e2f397f0-4dae-4833-953a-1f50d2f74aa4)
+![Screenshot 2025-07-06 180434](https://github.com/user-attachments/assets/1c123ca6-99c2-4aad-97b7-00333c43e9f1)
+![Screenshot 2025-07-06 180350](https://github.com/user-attachments/assets/18e949d4-7bba-4475-bfa9-ddbec06b80a9)
+![Screenshot 2025-07-06 180326](https://github.com/user-attachments/assets/4314d2bf-65ef-4410-9392-d3ee82a24e61)
+![Screenshot 2025-07-06 180304](https://github.com/user-attachments/assets/831fc2b9-5c3e-43aa-aa7c-9c2d60b0b69e)
+![Screenshot 2025-07-06 180222](https://github.com/user-attachments/assets/8b165af1-5b67-4998-9ab6-fb14f1e8166d)
 #  Heart Disease Prediction
 
 This project is focused on predicting the presence of heart disease in patients based on various clinical features. It involves a complete data analysis workflow, including EDA, feature engineering, and model building using multiple classification algorithms.
